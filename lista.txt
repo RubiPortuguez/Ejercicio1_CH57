@@ -1,7 +1,7 @@
-Lista de emergencia
-1. Galletas
-2. Chocolates
-3. Taza toothless
-4. Yogurt
---------------------
-Suministros 
+Suministros en un apocalipsis zombie
+1. agua	
+2. alcohol 
+3. del otro alcohol
+4. medicamentos
+5. comida enlatada
+
